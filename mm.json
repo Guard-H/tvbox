@@ -1,0 +1,177 @@
+{
+  "sites": [
+{"key":"csp_appys_xiaogui_爱尚影视", "name":"电视多：710110741", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_爱尚影视"},
+  
+ //{"key":"360_spider","name":"🐱360(官源)","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/360.json"},
+//{"key":"2345_spider","name":"🐱2345(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/2345.json"},
+//{"key":"sogou_spider","name":"🐱搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/sogou.json"},
+//{"key":"77_spider","name":"🐱七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"kmys_spider","name":"🐱酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"epang_spider","name":"🐱阿房(SP)","type":3,"api":"csp_EPangApp","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"sd_spider","name":"🐱闪电(SP)","type":3,"api":"csp_Sd","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"ikan_spider","name":"🐱爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"mjxq_spider","name":"🐱美剧星球(SP)","type":3,"api":"csp_MjxqApp","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"auete_spider","name":"🐱Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Auete.bmp"},
+//{"key":"buka_spider","name":"🐱真不卡(SP)","type":3,"api":"csp_Buka","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/zhenbuka.bmp"},
+//{"key":"ftys_spider","name":"🐱饭团(SP)","type":3,"api":"csp_Ftys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/fantuan.bmp"}
+ ],
+
+  "lives": [
+    {
+      "group": "自定义",
+      "channels": [
+        {
+          "name": "安徽经视",
+          "urls": [
+            "http://zbbf2.ahtv.cn/live/750.m3u8"
+          ]
+        },
+      ]
+    },
+    {
+      "group": "央视",
+      "channels": [
+        {
+          "name": "CCTV-1",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1",
+          ]
+        }
+      ]
+    },
+    {
+      "group": "卫视",
+      "channels": [
+        {
+          "name": "安多卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/anduostv/anduostv"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "NewTV",
+      "channels": [
+        
+        {
+          "name": "NewTV农业致富",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf"
+          ]
+        },
+        {
+          "name": "NewTV热播精选",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"
+          ]
+        },
+        {
+          "name": "NewTV中国功夫",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu"
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+
+	{"name":"Json并发","type":2,"url":"Parallel"},
+
+	{"name":"Json轮询","type":2,"url":"Sequence"},
+
+	{ "name": "手动官解",
+            "type": 0,
+            "url": "https://jx.parwix.com:4433/player/analysis.php?v="},
+
+	{"name":"高清解析2","type":0,"url":"https://dmku.dijiaxia.com/?url="},
+	{"name":"高清解析3","type":0,"url":"http://60jx.com/?url="},	{"name":"Json.VodJX","url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=","type":1}
+
+	],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili"
+  ],
+  "spider": "https://gitee.com/sharerwtv/mao/raw/master/custom_spider.jar",
+
+  "ijk" : [
+{"group" : "软解码", "options" : [
+{"category" : 4, "name" : "opensles", "value" : "0"},
+{"category" : 4, "name" : "overlay-format", "value" : "842225234"},
+{"category" : 4, "name" : "framedrop", "value" : "1"},
+{"category" : 4, "name" : "soundtouch", "value" : "1"},
+{"category" : 4, "name" : "start-on-prepared", "value" : "1"},
+{"category" : 1, "name" : "http-detect-range-support", "value" : "0"},
+{"category" : 1, "name" : "fflags", "value" : "fastseek"},
+{"category" : 2, "name" : "skip_loop_filter", "value" : "48"},
+{"category" : 4, "name" : "reconnect", "value" : "1"},
+{"category" : 4, "name" : "max-buffer-size", "value" : "5242880"},
+{"category" : 4, "name" : "enable-accurate-seek", "value" : "0"},
+{"category" : 4, "name" : "mediacodec", "value" : "0"},
+{"category" : 4, "name" : "mediacodec-auto-rotate", "value" : "0"},
+{"category" : 4, "name" : "mediacodec-handle-resolution-change", "value" : "0"},
+{"category" : 4, "name" : "mediacodec-hevc", "value" : "0"}]},
+{"group" : "硬解码", "options" : [
+{"category" : 4, "name" : "opensles", "value" : "0"},
+{"category" : 4, "name" : "overlay-format", "value" : "842225234"},
+{"category" : 4, "name" : "framedrop", "value" : "1"},
+{"category" : 4, "name" : "soundtouch", "value" : "1"},
+{"category" : 4, "name" : "start-on-prepared", "value" : "1"},
+{"category" : 1, "name" : "http-detect-range-support", "value" : "0"},
+{"category" : 1, "name" : "fflags", "value" : "fastseek"},
+{"category" : 2, "name" : "skip_loop_filter", "value" : "48"},
+{"category" : 4, "name" : "reconnect", "value" : "1"},
+{"category" : 4, "name" : "max-buffer-size", "value" : "5242880"},
+{"category" : 4, "name" : "enable-accurate-seek", "value" : "0"},
+{"category" : 4, "name" : "mediacodec", "value" : "1"},
+{"category" : 4, "name" : "mediacodec-auto-rotate", "value" : "1"},
+{"category" : 4, "name" : "mediacodec-handle-resolution-change", "value" : "1"}]}], 
+"ads" : [
+"mimg.0c1q0l.cn",
+"www.googletagmanager.com",
+"www.google-analytics.com",
+"mc.usihnbcq.cn",
+"mg.g1mm3d.cn",
+"mscs.svaeuzh.cn",
+"cnzz.hhttm.top",
+"tp.vinuxhome.com",
+"cnzz.mmstat.com",
+"www.baihuillq.com",
+"s23.cnzz.com",
+"z3.cnzz.com",
+"c.cnzz.com",
+"stj.v1vo.top",
+"z12.cnzz.com",
+"img.mosflower.cn",
+"tips.gamevvip.com",
+"ehwe.yhdtns.com",
+"xdn.cqqc3.com",
+"www.jixunkyy.cn",
+"sp.chemacid.cn",
+"hm.baidu.com",
+"s9.cnzz.com",
+"z6.cnzz.com",
+"um.cavuc.com",
+"mav.mavuz.com",
+"wofwk.aoidf3.com",
+"z5.cnzz.com",
+"xc.hubeijieshikj.cn",
+"tj.tianwenhu.com",
+"xg.gars57.cn",
+"k.jinxiuzhilv.com",
+"cdn.bootcss.com",
+"ppl.xunzhuo123.com",
+"xomk.jiangjunmh.top",
+"img.xunzhuo123.com",
+"z1.cnzz.com",
+"s13
