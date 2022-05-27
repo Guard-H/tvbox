@@ -32,7 +32,7 @@
     },
     {
       "key": "csp_Buka",
-      "name": "🧼 真不卡",
+      "name": "🧶 真不卡",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -42,7 +42,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "🧿 Auete",
+      "name": "🎨 Auete",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -122,7 +122,7 @@
     },
     {
       "key": "csp_FakeWindow",
-      "name": "🪟 假窗·氛围·白噪声",
+      "name": "🕠 假窗·氛围·白噪声",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 0,
