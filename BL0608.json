@@ -503,5 +503,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "http://127.0.0.1:8080/files/BL0608.jar"
+  "spider": "https://raw.githubusercontent.com/Guard-H/cat/main/BL0608.json"
 }
