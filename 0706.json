@@ -1,7 +1,7 @@
 
 
 {
-"spider":"https://github.com/Guard-H/cat/blob/main/0706.jar",
+"spider":"https://raw.githubusercontent.com/Guard-H/cat/main/0706.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHMHh0"]}]}],
 
 
