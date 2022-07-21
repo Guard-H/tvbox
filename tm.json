@@ -1,7 +1,7 @@
 
 
 {
-"spider":"https://gitea.com/Guard/bc/raw/branch/main/tmq.jar",
+"spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/tmq.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vbXJhbWFvL2d1YXJkLWguZ2l0aHViLmlvL3Jhdy9tYWluL25qLnR4dA=="]}]}],
 
 
