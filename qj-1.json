@@ -1,5 +1,5 @@
 {
-  "spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/qj.jar",
+  "spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/qj.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
@@ -21,7 +21,7 @@
     {"key":"csp_Cokemv","name":"🥇Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "Lib","name": "🥇Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
     {"key": "9E03","name": "🥇9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
-    {"key": "Bili","name": "🥇B站","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"},
+    {"key": "Bili","name": "🥇B站","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/Bili.json"},
     {"key":"csp_Nbys","name":"🚧泥巴(跨栏)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"If101","name":"🚧If101(跨栏)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Gitcafe","name":"🎲小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
