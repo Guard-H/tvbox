@@ -19,7 +19,6 @@
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
     {"key":"csp_SP361","name":"360影视","type":3,"api":"csp_SP361","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/qjj.jar"},
-    {"key":"3EDY","name":"3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://static01.imgkr.com/temp/caa16dd5513b418a80d25a6028c3a8c2.jpg"},
     {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name":"Bttwo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
