@@ -1,5 +1,5 @@
 {
-  "spider":"http://home.jundie.top:81/jar/top95.jar",
+  "spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/top95.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
