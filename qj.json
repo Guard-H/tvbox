@@ -6,7 +6,7 @@
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "KanSJ_spider","name":"看视界","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
     {"key": "Lezhu_spider","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
-    //{"key":"293视频","name":"293影院","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/0809.jar"},
+    {"key":"293视频","name":"293影院","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {"key":"Smdyy_spider","name":"神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"3EDY","name":"3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"追剧喵","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
