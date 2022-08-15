@@ -42,6 +42,7 @@
     {"key": "学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/初中学习.txt","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang.jar"},
     {"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/高中学习.txt","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang.jar"},
     
+    {"key":"csp_xpath_喵乐","name":"喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/喵乐.json"},
     {"key": "csp_xpath_网络搜集库qiumi","name":"球迷看球️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
     {"key": "Bili","name":"B站","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},
     {"key":"csp_biubiu_小宝影院","name":"小宝影院XB(墙外)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/小宝影院.json"},
