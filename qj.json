@@ -30,8 +30,6 @@
     {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name":"两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "Lib","name":"Libvio","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/top95.jar"},
-    {"key": "Ekan_spider","name":"Ekan","api":"csp_Ekan","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/0809.jar"},
 
     {"key": "csp_xpath_qiumi","name": "JRKAN直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
     {"key":"csp_Nbys","name":"泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
