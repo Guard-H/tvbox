@@ -28,7 +28,6 @@
     {"key": "Lib","name":"Libvio","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
     {"key": "Ekan_spider","name":"Ekan","api":"csp_Ekan","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/0809.jar"},
     {"key":"csp_Bttoo","name":"两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-    {"key": "9E03","name":"9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
     {"key":"csp_Nbys","name":"泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"If101","name":"If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
