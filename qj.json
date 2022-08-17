@@ -38,7 +38,7 @@
     {"key":"FindZY","name":"找资源(搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
     {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
     {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
-    {"key": "csp_Yisou","name":"易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"bc6b4dab5c0f4c66bd2d77471c7d734b"},
+    {"key": "csp_Yisou","name":"易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"bc6b4dab5c0f4c66bd2d77471c7d734b","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/易搜盘.jar"},
 
      ## 儿童学习
     {"key": "学堂1","name": "儿童乐园","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/幼儿乐园.txt","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang.jar"},
