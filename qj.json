@@ -25,7 +25,7 @@
     {"key": "小熊","name":"小熊","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/XC0815w.jar"},
     {"key":"csp_Mjxq","name":"美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "Lib","name":"Libvio","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_Dy555","name":"五五五","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/555.jar"},
+    {"key":"csp_Dy555","name":"555影视","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/555.jar"},
     {"key":"csp_Bttoo","name":"两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
     {"key":"csp_Nbys","name":"泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
