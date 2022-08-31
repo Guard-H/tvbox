@@ -3,7 +3,7 @@
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
-    {"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://od.lk/s/MThfMzY1MjMyMjlf/77.jpg"},
+    //{"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://od.lk/s/MThfMzY1MjMyMjlf/77.jpg"},
     {"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"csp_CZSPP" ,"name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_dd5555","name":"555影视","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
@@ -31,7 +31,6 @@
     {"key": "csp_QQ","name":"腾讯","type": 3,"api": "csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/ayt.jar"},
     {"key": "csp_MGTV","name":"芒果","type": 3,"api": "csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/ayt.jar"},
     {"key": "csp_IQIYI","name":"爱奇艺","type": 3,"api": "csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/ayt.jar"},
-    {"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"黄色仓库(爬虫)","quickSearch":1,"searchable":1,"type":3},
     {"key":"csp_Nbys","name":"泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"If101","name":"If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
