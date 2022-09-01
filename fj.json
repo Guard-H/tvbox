@@ -53,8 +53,8 @@
 
     {"key":"少儿教育","name":"幼儿早教","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/youer.php"},
     {"key":"学堂2","name": "小学学习","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xiaoxue.json" ,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang2.jar"},
-    {"key":"学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/chuzhong.json" ,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang2.jar"},
-    {"key":"学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/gaozhong.json" ,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang2.jar"},
+    {"key":"学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/chuzhong.json","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang2.jar"},
+    {"key":"学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/gaozhong.json","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang2.jar"},
 
     {"key":"csp_xpath_喵乐","name":"喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/喵乐.json"},
     {"key": "csp_xpath_网络搜集库qiumi","name":"球迷看球️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
