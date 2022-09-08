@@ -249,6 +249,18 @@
 		"type": 1,
 		"url": "https://play.fuqizhishi.com/gang0830/API.php?appkey=zhitigonggeixiaobai&url="
 	}, {
+		"name": "OKjx嗅探",
+		"type": 0,
+		"url": "https://okjx.cc/?url="
+  	}, {
+		"name":"解析13",
+		"type":0,
+		"url":"http://api.wpsseo.cn/?v="
+	}, {
+		"name":"解析14",
+		"type":0,
+		"url":"https://go.yh0523.cn/y.cy?url="
+	}, {
 		"name": "aiku",
 		"type": 1,
 		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
