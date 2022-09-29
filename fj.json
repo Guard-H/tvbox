@@ -34,6 +34,7 @@
     {"key": "csp_IQIYI","name":"爱奇艺","type": 3,"api": "csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/ayt.jar"},
     {"key":"csp_Nbys","name":"泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"If101","name":"If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+    {"key": "csp_xpath_qiumi","name":"球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
     {"key": "T4","name":"豆瓣荐片(T4)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"},
     {"key": "Gitcafe","name":"小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"},
