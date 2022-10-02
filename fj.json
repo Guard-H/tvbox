@@ -8,7 +8,6 @@
     {"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"csp_CZSPP" ,"name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_dd5555","name":"555影视","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
-    //{"key":"csp_SP293","name":"293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_剧荒","name":"剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"Lezhu_spider","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
     {"key":"KanSJ_spider","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -27,6 +26,7 @@
     {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo" ,"name":"两个BT","type": 3,"api": "csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_AppTT","name":"图图","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/Nmys.json"},
     {"key":"csp_Anime1","name":"动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Alist","name":"Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园$https://alist.52qy.repl.co#菊花盘$https://pan.142856.xyz#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#轻弹浅唱$https://g.xiang.lol#神器云$https://quanzi.laoxianghuijia.cn"},
     //{"key": "csp_QQ","name":"腾讯","type": 3,"api": "csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/ayt.jar"},
@@ -240,7 +240,7 @@
     {"key":"MBO影视","name":"MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0}
   ],
 
-	 "parses": [{
+	"parses": [{
 		"name": "解析聚合",
 		"type": 3,
 		"url": "Demo"
@@ -253,17 +253,21 @@
 		"type": 2,
 		"url": "Sequence"
 	}, {
+		"name": "GGTV自用",
+		"type": 1,
+		"url": "https://play.fuqizhishi.com/jx/API.php?appkey=ixiaobai&url="
+	}, {
 		"name": "GGTV搜集",
 		"type": 1,
 		"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-    }, {
-		"name": "GGTV自用",
-		"type": 1,
-		"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url="
 	}, {
-		"name": "云you解析",
+		"name": "未知",
 		"type": 1,
-		"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=dklsuzIKNPRVW14568&url="
+		"url": "http://api.ckflv.cn/?url="
+	}, {
+		"name": "OKjx嗅探",
+		"type": 1,
+		"url": "https://okjx.cc/?url="
 	}, {
 		"name": "神1",
 		"type": 0,
@@ -277,15 +281,11 @@
 		"url": "https://h5.freejson.xyz/player/?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}   
-    }, {
-		"name": "未知",
-		"type": 1,
-		"url": "http://150.230.216.174/tvjx.php?url="
+		}    
 	}, {
 		"name": "未知2",
-		"type": 0,
-		"url": "http://api.ckflv.cn/?url="
+		"type": 1,
+		"url": "http://120.53.102.254/jx1/jx75.php?url="
 	}],
 	"flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "renrenmi"],
 	"ijk": [{
