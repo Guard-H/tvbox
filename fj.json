@@ -261,6 +261,10 @@
 		"type": 1,
 		"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
 	}, {
+		"name": "云you",
+		"type": 1,
+		"url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
+	}, {
 		"name": "未知",
 		"type": 1,
 		"url": "http://api.ckflv.cn/?url="
@@ -270,7 +274,7 @@
 		"url": "https://okjx.cc/?url="
 	}, {
 		"name": "神1",
-		"type": 0,
+		"type": 1,
 		"url": "http://newjiexi.gotka.top/keyu3.php?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
