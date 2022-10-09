@@ -1,5 +1,5 @@
 {
-  "spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/1001.jar",
+  "spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/1009.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
@@ -9,6 +9,7 @@
     {"key":"csp_CZSPP" ,"name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_dd5555","name":"555影视","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
     {"key":"csp_剧荒","name":"剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"293视频","name":"2️293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Lezhu_spider","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
     //{"key":"KanSJ_spider","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"追剧喵","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
@@ -24,6 +25,7 @@
     {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo" ,"name":"两个BT","type": 3,"api": "csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_AppTT","name":"图图","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_Bd","name":"bidi","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/Nmys.json"},
     {"key":"csp_Anime1","name":"动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Alist","name":"Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园$https://alist.52qy.repl.co#菊花盘$https://pan.142856.xyz#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#轻弹浅唱$https://g.xiang.lol#神器云$https://quanzi.laoxianghuijia.cn"},
@@ -34,6 +36,7 @@
     {"key":"If101","name":"If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_xpath_qiumi","name":"球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
     {"key":"douban","name":"豆瓣荐片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"},
     {"key": "Gitcafe","name":"小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"},
     {"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"},
