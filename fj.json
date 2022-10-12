@@ -158,7 +158,6 @@
     {"key":"csp_xpath_doujiaow","name":"豆角网(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXP/doujiaow.json"},
     {"key":"csp_xpath_pianba","name":"片吧影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXP/pianba.json"},
     {"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXP/zj883.json"},
-
     ## M浏览器中APP影视规则支持(AppYsV2)
     #萝卜/白菜/木白/绿豆
     {"key":"csp_appysv2_熊猫动漫","name":"熊猫动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
@@ -174,8 +173,6 @@
     {"key":"csp_appysv2_CV影视","name":"CV影视(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
     {"key":"csp_appysv2_2号币","name":"2号币(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
     #
-
-
     ## 广大侠 资源网采集
     #官方解析
     {"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -192,29 +189,14 @@
     {"key":"阿远采集","name":"阿远采集(官)","type":1,"api":"https://www.cjzy.xyz:8888/api.php/provide/vod/","searchable":1,"quickSearch":1},
     #
     #切片资源
-    {"key":"冠军资源","name":"冠军资源(切)","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
-    {"key":"TOM资源","name":"TOM资源(切)","type":1,"api":"https://api.tomcaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"FOX资源","name":"FOX资源(切)","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"量子资源","name":"量子资源(切)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"神速资源","name":"神速资源(切)","type":1,"api":"https://api.sszyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"番茄资源","name":"番茄资源(切)","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"樱花资源","name":"樱花资源(切)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"想看资源","name":"想看资源(切)","type":1,"api":"https://m3u8.xiangkanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"酷点资源","name":"酷点资源(切)","type":1,"api":"https://kudianzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"速更资源","name":"速更资源(切)","type":1,"api":"https://sugengzy.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"飞速资源","name":"飞速资源(切)","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"韩剧资源","name":"韩剧资源(切)","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-    {"key":"快播资源","name":"快播资源(切)","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"八戒资源","name":"八戒资源(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-    {"key":"天空资源","name":"天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"南国影源","name":"南国影源(切)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+    {"key":"冠军资源","name":"冠军资源","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},    
+    {"key":"FOX资源","name":"FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"快播资源","name":"快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"200121","name":"200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
     #
     #优质资源
     {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
