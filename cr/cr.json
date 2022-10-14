@@ -5,6 +5,13 @@
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext="]}]}],
     "sites": [
         {"key":"csp_xbb_2022xxj","name":"2022xxj（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/cr/2022xxj.json"},
+        {"key":"dr_18av","name":"18av(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=18av&ext=txt/js/18/18av.js","searchable":2,"quickSearch":0,"filterable":0},
+        {"key":"dr_banan","name":"banan(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=banan&ext=txt/js/18/banan.js","searchable":2,"quickSearch":0,"filterable":0},
+        {"key":"dr_Missav","name":"Missav(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=Missav&ext=txt/js/18/Missav.js","searchable":2,"quickSearch":0,"filterable":0},
+        {"key":"dr_养端","name":"养端(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=养端&ext=txt/js/18/养端.js","searchable":2,"quickSearch":0,"filterable":0},
+        {"key":"dr_吸瓜","name":"吸瓜(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js","searchable":2,"quickSearch":0,"filterable":0},
+        {"key":"dr_朱古力","name":"朱古力(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=朱古力&ext=txt/js/18/朱古力.js","searchable":2,"quickSearch":0,"filterable":0},
+        {"key":"dr_玩偶姐姐","name":"玩偶姐姐(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js","searchable":2,"quickSearch":0,"filterable":0},
         { "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "(18+)速度资源", "name": "(18+)速度资源", "type": 0, "api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "芒果18+", "name": "芒果18+(动漫不错)", "type": 0, "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/", "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=", "searchable": 0, "quickSearch": 1, "filterable": 0 },
