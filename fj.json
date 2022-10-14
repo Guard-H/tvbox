@@ -114,6 +114,14 @@
     {"key": "dr_真不卡","name": "真不卡(道长)","type": 1,"api": "https://drpy.owen10086.repl.co/vod?rule=真不卡","searchable": 2,"quickSearch": 0,"filterable": 0},
     {"key": "dr_HD","name": "HD(道长)","type": 1,"api": "https://drpy.owen10086.repl.co/vod?rule=HD","searchable": 0,"quickSearch": 0,"filterable": 0},
 
+    {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+    {"key":"冠军资源","name":"冠军资源","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},    
+    {"key":"FOX资源","name":"FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"快播资源","name":"快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    
     {"key":"csp_xpath_喵乐","name":"喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/喵乐.json"},
     {"key": "csp_xpath_网络搜集库qiumi","name":"球迷看球️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
     {"key": "Bili","name":"哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/bili.json"},
@@ -199,7 +207,6 @@
     {"key":"csp_xpath_doujiaow","name":"豆角网(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXP/doujiaow.json"},
     {"key":"csp_xpath_pianba","name":"片吧影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXP/pianba.json"},
     {"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXP/zj883.json"},
-
   ],
 
  "parses": [{
