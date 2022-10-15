@@ -73,7 +73,7 @@
     {"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"快播资源","name":"快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     
-        {"key":"dr_007影视","name":"007影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=007影视","searchable":2,"quickSearch":0,"filterable":0},
+    {"key":"dr_007影视","name":"007影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=007影视","searchable":2,"quickSearch":0,"filterable":0},
     {"key":"dr_1080P","name":"1080P(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=1080P","searchable":2,"quickSearch":0,"filterable":0},
     {"key":"dr_360影视","name":"360影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=360影视","searchable":2,"quickSearch":0,"filterable":0},
     {"key":"dr_555影视","name":"555影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=555影视","searchable":2,"quickSearch":0,"filterable":0},
