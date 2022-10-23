@@ -32,9 +32,8 @@
     {"key":"csp_Nbys","name":"泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"If101","name":"If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_xpath_qiumi","name":"球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
-    {"key":"douban","name":"豆瓣荐片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"},
+    {"key":"douban","name":"豆瓣荐片(T4)","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},    {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"},
     {"key": "Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable": 1,"playerType":1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"},
     {"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"},
     {"key":"csp_Yiso","name":"易搜","type":3,"api":"csp_Yiso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"},
@@ -168,22 +167,10 @@
     {"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXP/zj883.json"}
   ],
 
-"parses": [{
+ "parses": [{
 		"name": "解析聚合",
 		"type": 3,
 		"url": "Demo"
-	}, {
-		"name": "刘兵",
-		"type": 1,
-		"url": "http://newjiexi.gotka.top/keyu3.php?url="
-	}, {
-		"name": "云you",
-		"type": 1,
-		"url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
-	}, {
-		"name": "未知",
-		"type": 1,
-		"url": "http://api.ckflv.cn/?url="
 	}, {
 		"name": "可与",
 		"type": 1,
@@ -191,6 +178,10 @@
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
+	}, {
+		"name": "云you",
+		"type": 1,
+		"url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
 	}, {
 		"name": "融兴",
 		"type": 1,
@@ -206,7 +197,7 @@
 			"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]
 		}  
 	}, {
-		"name": "未知2",
+		"name": "未知",
 		"type": 0,
 		"url": "https://h5.freejson.xyz/player/?url=",
 		"ext": {
