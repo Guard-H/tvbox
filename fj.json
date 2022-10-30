@@ -15,7 +15,7 @@
 {"key":"csp_Ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Dy555","name":"555影视","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_Dy555","name":"555影视(可搜索)","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Jianying","name":"简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNjM4NCwiQ3JlYXRlZEF0IjoiMjAyMi0xMC0yMFQxMDoxNTowMS43MDIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTIwVDEwOjE1OjAxLjcwMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzNTM4MDc1M0BxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJlNDNiYTQ1NC0xMTcwLTQxZTQtOGNiYS1iYzI3ZThlYzM4OGUiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2Njg0MDYxNiwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.Zfpavwe3znuKUtqZyXOLuR-m5Smv3duEBGa5Z4OF8ZU","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cs.jar"},
 {"key":"csp_Cokemv","name":"可乐","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
@@ -38,7 +38,6 @@
 {"key":"csp_Nbys","name":"泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appysv2_ysp","name":"氢视频(部分翻墙)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://h1080p.com/xgapp.php/v2/"},
-{"key":"csp_XPath_鹅直播","name":"企鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/qezb.json"},
 {"key": "csp_xpath_qiumi","name":"球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
 
 {"key":"douban","name":"豆瓣荐片(T4)","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
