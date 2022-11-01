@@ -71,7 +71,17 @@
 {"key":"csp_xBPQ_抓饭体育","name":"️抓饭体育（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
 {"key":"csp_xBPQ_素白白","name":"素白白（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/sbb.json"},
 
-    
+{"key": "py_czspp","name":"厂长(py)","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_czspp.py"},
+{"key": "py_lezhutv","name":"乐猪TV(py)","type": 3,"api": "py_lezhutv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_lezhutv.py"},
+{"key": " py_3qu","name":"快播影视(py)","type": 3,"api": "py_3qu","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_3qu.py"},
+{"key": " py_kuaikan","name":"快看(py)","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_kuaikan.py"},
+{"key": "py_douban.py","name":"豆瓣推荐(py)","type": 3,"api": "py_douban.py","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_douban.py"},
+{"key": " py_kunyu77","name":"酷云77(py)","type": 3,"api": "py_kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_kunyu77.py"},
+{"key": "py_voflix","name":"Voflix(py)","type": 3,"api": "py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_voflix.py"},
+{"key": " py_bilimd","name":"哔哩影视(py)","type": 3,"api": "py_bilimd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_bilimd.py"},
+{"key": " py_bilivd","name":"B站视频(py)","type": 3,"api": "py_bilimd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_bilivd.py"},
+{"key": "py_yixi","name":"一席(py)","type": 3,"api": "py_yixi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_yixi.py"},
+
 {"key":"学堂0","name":"知识学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/学堂.json","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang.js"},
 {"key":"学堂1","name":"儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/儿童.json","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang.js"},
 {"key":"学堂2","name":"小学教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/小学.json","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang.js"},
