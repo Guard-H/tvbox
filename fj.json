@@ -18,7 +18,7 @@
 {"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Dy555","name":"555影视(可搜索)","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Cokemv","name":"可乐","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"图图1","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
+{"key":"csp_AppTT","name":"图图1","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
 {"key":"AppTT","name":"图图2","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/735/ts.jar?sign=aiIxWTSkoIoN83lpEJm3iChI1jHPeVTkEWCYZAluzsI%3D%3A0"},
 {"key":"csp_Czsapp","name":"厂长1","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"厂长2","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/735/ts.jar?sign=aiIxWTSkoIoN83lpEJm3iChI1jHPeVTkEWCYZAluzsI%3D%3A0"},
@@ -192,6 +192,20 @@
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":""}
 		}    
+	}, {
+		"name": "综合/B站",
+		"type": 0,
+		"url": "https://jx.bozrc.com:4433/player/?url=",
+		"ext": {
+			"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]
+		}    
+	}, {
+		"name": "十三",
+		"type": 0,
+		"url": "http://www.13tv.top/label/v.html?url=",
+		"ext": {
+			"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]
+		}  
 	}, {
 		"name": "OKjx嗅探",
 		"type": 0,
