@@ -1,6 +1,6 @@
 {
   "spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cc.jar",
-  "wallpaper": "https://raw.githubusercontent.com/Guard-H/tvbox/main/m.png",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
 "sites":[
