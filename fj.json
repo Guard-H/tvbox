@@ -39,7 +39,6 @@
 {"key":"csp_appysv2_ysp","name":"氢视频(部分翻墙)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://h1080p.com/xgapp.php/v2/"},
 {"key":"dr_JRKAN直播","name":"JRKAN直播(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
 {"key":"88看球","name":"88看球","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/88看球.json"},
-{"key":"csp_XYQBiu_17kan","name":"17kan赛事","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/17kan.json"},
 {"key": "SPMGTV","name": "芒果","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/mgtv"},
 
 {"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://pan.css.lc/api/v3/file/get/90093/ts.jar?sign=Klan8hv3Xq9Y1yj_4P0MnmNM4D6t-EfCixSJR27btd0%3D%3A0"},
