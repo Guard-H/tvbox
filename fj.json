@@ -65,7 +65,7 @@
 {"key":"csp_xBPQ_ 热播库","name":"热播库（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/热播库.json"},
 {"key":"csp_xBPQ_ 零零七","name":"零零七（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/零零七影视.json"},
 {"key":"csp_xBPQ_ 六度","name":"六度（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/六度.json"},
-{"key":"csp_xBPQ_爱看","name":"爱看（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/爱看.json"}
+{"key":"csp_xBPQ_爱看","name":"爱看（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/爱看.json"},
 
 {"key":"学堂0","name":"知识学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/学堂.json","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang.js"},
 {"key":"学堂1","name":"儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/儿童.json","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang.js"},
@@ -83,7 +83,7 @@
 {"key":"FOX资源","name":"FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"快播资源","name":"快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"快播资源","name":"快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 "parses": [{
 		"name": "Json聚合",
