@@ -17,7 +17,7 @@
 {"key":"BuLei","name":"布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nkdy","name":"耐看","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
