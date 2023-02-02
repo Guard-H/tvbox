@@ -95,13 +95,16 @@
 		"type": 3,
 		"url": "Web"
 	}, {
-		"name": "Q1",
-		"type": 1,
-		"url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
-	}, {
 		"name": "rx2",
 		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+	}, {
+		"name": "星辰云",
+		"type": 1,
+		"url": "http://svip.xn--9kq078cdn3a.cc/api/?key=X1k0ePfQloi7b4S37w&url=",
+		"header": {
+			"User-Agent": "Mozilla/5.0"
+		}   
 	}, {
 		"name": "万年魂环",
 		"type": 1,
