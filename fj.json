@@ -101,6 +101,10 @@
 			"User-Agent": "Mozilla/5.0"
 		}   
 	}, {
+		"name": "rx2",
+		"type": 1,
+		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+	}, {
 		"name": "万年魂环",
 		"type": 1,
 		"url": "https://jiexi.parses.repl.co/api.php?url="
@@ -108,13 +112,6 @@
 		"name": "刚刚走过",
 		"type": 1,
 		"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
-	}, {
-		"name": "bozrc",
-		"type": 0,
-		"url": "https://jx.bozrc.com:4433/player/?url=",
-		"ext": {
-			"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]
-		}    
 	}, {
 		"name": "未知",
 		"type": 0,
