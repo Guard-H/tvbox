@@ -108,13 +108,6 @@
 	}, {
 		"name": "未知",
 		"type": 0,
-		"url": "http://1jx.7yys.cn/?url=",
-		"header": {
-			"User-Agent": "okhttp/4.9.1"
-		}   
-	}, {
-		"name": "未知2",
-		"type": 0,
 		"url": "https://h5.freejson.xyz/player/?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
