@@ -94,13 +94,6 @@
 		"type": 3,
 		"url": "Web"
 	}, {
-		"name": "星辰云",
-		"type": 1,
-		"url": "http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=",
-		"header": {
-			"User-Agent": "Mozilla/5.0"
-		}   
-	}, {
 		"name": "rx2",
 		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
@@ -114,6 +107,13 @@
 		"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
 	}, {
 		"name": "未知",
+		"type": 0,
+		"url": "http://1jx.7yys.cn/?url=",
+		"header": {
+			"User-Agent": "okhttp/4.9.1"
+		}   
+	}, {
+		"name": "未知2",
 		"type": 0,
 		"url": "https://h5.freejson.xyz/player/?url=",
 		"ext": {
