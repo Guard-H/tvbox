@@ -105,6 +105,13 @@
 		"type": 1,
 		"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
 	}, {
+		"name": "星辰云嗅探",
+		"type": 0,
+		"url": "http://xyz.xn--9kq078cdn3a.cc/yh/?url=",
+		"ext": {
+			"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]
+		}    
+	}, {
 		"name": "未知",
 		"type": 0,
 		"url": "https://jx.zhanlangbu.com/?url=",
