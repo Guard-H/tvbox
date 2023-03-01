@@ -6,8 +6,7 @@
 "sites":[
 {"key":"dr_豆瓣","name":"豆瓣荐片","type":3,"api":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/豆瓣.js"},
 {"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
-{"key":"drpy_js_七七","name":"酷云七七","type":3,"api":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/酷云77.js"},
-//{"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"SP360","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -28,7 +27,6 @@
 {"key":"csp_Nkdy","name":"耐看","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.tv"},
 {"key":"csp_Bd","name":"哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Slsp","name":"石榴","type":3,"api":"csp_Slsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/Slsp.json"},
 {"key":"csp_Bttoo","name":"两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
