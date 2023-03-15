@@ -51,6 +51,7 @@
 
 {"key":"JRS赛事直播","name":"JRS赛事直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/JRS赛事直播.json"},
 {"key":"dr_JRKAN直播","name":"JRKAN直播(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/JRKAN直播.js"},
+{"key":"csp_XYQHiker_皮皮鸭","name":"皮皮鸭","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/皮皮鸭.json"},
 {"key":"csp_xBPQ_ 零零七","name":"零零七","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/零零七影视.json"},
 {"key":"csp_xBPQ_ 六度","name":"六度","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/六度.json"},
 {"key":"csp_xBPQ_乐猪","name":"乐猪","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/乐猪.json"},
