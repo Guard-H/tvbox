@@ -70,10 +70,6 @@
 		"type": 3,
 		"url": "Web"
 	}, {
-		"name": "未知",
-		"type": 1,
-		"url": "http://124.221.180.169:999/api/?key=d35d10afa9183bb0c777b94a1a7f71c2&url="
-	}, {
 		"name": "bozrc",
 		"type": 0,
 		"url": "https://jx.bozrc.com:4433/player/?url=",
